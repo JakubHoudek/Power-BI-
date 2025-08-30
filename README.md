@@ -1,6 +1,6 @@
 ## 📑 Power BI
 This repository contains my **Power BI projects**, built as part of my data visualization and analytics portfolio.  
-The featured project was developed using the **Adventure Works** sample dataset and guided by **Maven Analytics** resources.  
+Featured projects were developed using sample datasets and guided by **Maven Analytics** resources.  
 
 ---
 
